@@ -1,346 +1,356 @@
-# Universe Model / 宇宙模型
-
-A unified structural framework spanning from quantum physics to human civilization, built on one foundational insight: **information (distinction) is the common substrate of all systems.**
-
-一个从量子物理到人类文明的统一结构性框架，建立在一个基础洞察上：**信息（区分）是所有系统的共同基底。**
-
----
-
-## Three Models, One Framework / 三个模型，一个框架
-
-This repository contains three interconnected models at different levels of abstraction:
-
-本仓库包含三个不同抽象层级的互联模型：
-
-### Information Model / 信息模型
-The deepest layer. One meta-axiom (all physical reality emerges from information), four fundamental constraints of information processes, five emergence levels, and the transcendence tendency. Connects to frontier physics (holographic principle, AdS/CFT, ER=EPR, entropic gravity).
-
-最深层。一条元公理（一切物理实在都是信息的涌现）、信息过程的四个基本约束、五个涌现层级、超越倾向。连接物理学前沿。
-
-### World Model / 世界模型
-The practical layer. 13 axioms, 16 core concepts, 7 evolution stages, 5-step diagnostic framework with 13 dimensions, 4 intervention protocols (healing, progression, field management, autonomous dissolution). Applicable to any human organization from families to nations.
-
-实践层。13条公理、16个核心概念、7个演化阶段、5步诊断框架含13个维度、4套干预方案。适用于从家庭到国家的任何人类组织。
-
-### Universe Model / 宇宙模型
-The unified picture. How information self-organizes from spacetime to consciousness, how the World Model's structural laws connect to fundamental physics, and why love is not an exception to structure but the name we give to the transcendence tendency in human experience.
-
-统一图景。信息如何从时空自组织到意识，世界模型的结构性规律如何连接基本物理学，以及为什么爱不是结构的例外而是超越倾向在人类经验中的名字。
-
----
-
-## The Core Insight / 核心洞察
-
-Why do empires, companies, ecosystems, immune systems, and even particle physics all show similar structural patterns?
-
-为什么帝国、企业、生态系统、免疫系统甚至粒子物理都展示相似的结构性模式？
-
-Because they all face the same four constraints:
-因为它们都面临同样的四个约束：
-
-1. **Resources are finite** / 资源有限
-2. **Connection has cost** / 连接有成本
-3. **Entropy is inevitable** / 熵增不可避免
-4. **Transmission loses structure** / 传导丧失结构
-
-These are not metaphors — they are properties of information processes at every scale, from quantum fields to civilizations.
-
-这不是比喻——它们是信息过程在每个尺度上的属性，从量子场到文明。
-
-And against these four constraints, one force persists: the **transcendence tendency** — information's inherent inclination to exceed its current constraints. In physics it manifests as quantum fluctuation. In biology as evolutionary creativity. In human behavior as love.
-
-而对抗这四个约束的，是一种持续的力量：**超越倾向**——信息超越当前约束的内在倾向。在物理学中表现为量子涨落，在生物学中表现为演化创造性，在人类行为中表现为爱。
-
----
-
-## Quick Start / 快速开始
-
-**If you want to diagnose your organization right now:**
-**如果你想现在就诊断你的组织：**
-
-Read `models/world-model-core.md` — the 3000-word core version. Seven concepts, seven stages, five diagnostic steps. You can run your first diagnosis in 30 minutes.
-
-阅读核心版——3000字。七个概念、七个阶段、五步诊断法。30分钟内完成第一次诊断。
-
-**If you want the complete framework:**
-**如果你想要完整框架：**
-
-Read `models/world-model-v8.3-full.md` — the full version with all axioms, concepts, diagnostic dimensions, and intervention protocols.
-
-阅读完整版——包含全部公理、概念、诊断维度和干预方案。
-
-**If you want to understand why it works:**
-**如果你想理解为什么它有效：**
-
-Read `models/information-model.md` and `models/universe-model.md` — the theoretical foundation connecting structural laws to fundamental physics.
-
-阅读信息模型和宇宙模型——连接结构性规律与基本物理学的理论基础。
-
-**If you want to use it with AI:**
-**如果你想配合AI使用：**
-
-Copy any model's full text as a system prompt. Ask the AI to diagnose any organization, analyze any situation, or evaluate any decision using the model's framework.
-
-将任何模型的完整文本复制为系统提示词。让AI用模型框架诊断任何组织、分析任何情境、评估任何决策。
-
----
-
-## Validated Across 30+ Systems / 经过30+系统的交叉验证
-
-The framework has been validated across:
-
-框架经过了以下系统的交叉验证：
-
-- **Historical empires:** Tang, Song, Han, Rome, Soviet Union, Napoleonic France, Qing
-- **Natural systems:** Ecosystems, immune system, climate, microbiome, nervous system
-- **Physics:** Standard Model (structural analogy), quantum mechanics, thermodynamics
-- **Social systems:** Capitalism, economics, religion, law, education, tech companies, internet platforms, scientific revolutions, families, cities, military
-- **Psychology:** Attachment theory, trauma psychology, personality structure, evidence-based psychotherapy
-- **Formal systems:** Language, mathematics, information theory, game theory, evolutionary biology
-- **Thought experiments:** Mouse Utopia (verified), Three-Body Problem, classic effects and paradoxes
-
-Every axiom has been cross-validated by at least two independent systems. No contradictions found.
-
-每条公理都经过了至少两个独立系统的交叉验证。未发现矛盾。
-
----
-
-## Development History / 推演历程
-
-The model originated from long-term observation of Chinese internet fan communities (2019-2024). Different communities showed highly similar structural patterns of rise and fall.
-
-模型起源于对中国互联网饭圈社群的长期观察（2019-2024）。不同社群的兴衰呈现出高度相似的结构性模式。
-
-v2.x — Applied to business enterprises. Found structural isomorphism with fan communities.
-v3.0 — First axiomatization. 16 axioms.
-v4.x — Stress-tested against Tang, Song, Han dynasties. Expanded to 28 axioms.
-v5.0 — Critical compression. 28 axioms reduced to 12. Established "diagnostic tool" positioning.
-v5.2 — Added healing protocol, progression mode, autonomous dissolution.
-v5.5-5.9 — Cross-civilization validation (Soviet Union, Rome, Napoleon, Qing). Integrated Enlightenment thought, Marxist dialectics, Austrian economics, public choice theory.
-v7.0 — Complete restructuring into three-layer architecture (supply/transmission/closure).
-v8.0 — Integration of Information Model and Universe Model. Standard Model reverse derivation.
-v8.3 — Frontier physics integration, six hidden assumptions audit, psychological integration, effects and paradoxes validation.
-
----
-
-## Honest Limitations / 诚实的局限
-
-This is a **conceptual framework**, not a mathematical theory. It produces qualitative structural insights, not quantitative predictions.
-
-这是**概念框架**，不是数学理论。它产生定性的结构性洞察，不是定量预测。
-
-The physics derivations are **directional conjectures** consistent with frontier research, not proven theorems.
-
-物理学推演是与前沿研究一致的**方向性猜想**，不是已证明的定理。
-
-The model **cannot predict** individual behavior, black swan events, or the specific timing of system transitions.
-
-模型**无法预测**个体行为、黑天鹅事件或系统转变的具体时机。
-
-The model **cannot explain** the origin of the transcendence tendency (love). It can describe its effects and create structures that don't waste it — but it cannot manufacture it or predict when it will appear.
-
-模型**无法解释**超越倾向（爱）的来源。它可以描述其效果并创造不浪费它的结构——但无法制造它或预测它何时出现。
-
-The model's axiom set is **not the only possible one**. Different case bases and analytical perspectives could produce different but equally self-consistent alternative models.
-
-模型的公理集**不是唯一可能的**。不同的案例基础和分析视角可以产生不同但同样自洽的替代模型。
-
----
-
-## One Principle / 一个原则
-
-> Structure over character. Good structure doesn't replace love — it ensures love is not wasted.
->
-> 结构优先于品质。好的结构不是替代爱——而是确保爱不被浪费。
-
----
-
-## Repository Structure / 仓库结构
-
-universe-model/
-│
-├── README.md                          ← You are here / 你在这里
-│
-├── models/
-│   ├── world-model-core.md            ← 30-min core version / 30分钟核心版
-│   ├── world-model-v8.3-full.md       ← Complete World Model / 世界模型完整版
-│   ├── information-model.md           ← Information Model / 信息模型
-│   └── universe-model.md             ← Universe Model / 宇宙模型
-│
-├── references/
-│   └── full-references.md            ← Complete references / 完整参考来源
-│
-├── derivation/
-│   ├── standard-model-derivation.md  ← Standard Model derivation / 标准模型推演
-│   └── emergence-chain.md            ← Five levels + transcendence / 五层级+超越倾向
-│
-├── guides/
-│   ├── quick-diagnostic.md           ← How to diagnose / 如何做诊断（待补充）
-│   └── ai-integration.md            ← How to use with AI / AI配合使用（待补充）
-│
-├── examples/                          ← Case studies / 诊断案例（待补充）
-│
-└── LICENSE
-
----
-
-## Intellectual Lineage / 思想谱系
-
-The Universe Model stands on the shoulders of giants across millennia and disciplines. No single insight is entirely new — the contribution is the integration.
-
-宇宙模型站在跨越千年和学科的巨人肩膀上。没有任何单一洞察是全新的——贡献在于整合。
-
-### Ancient Roots / 古代根源
-
-- **Laozi** (c. 6th century BCE) — "Dao generates one, one generates two, two generates three, three generates all things." The earliest emergence hierarchy. / 老子——"道生一，一生二，二生三，三生万物。"最早的涌现层级描述。
-- ***I Ching*** (c. 10th century BCE) — Yin-yang as binary distinction, trigrams as three-layer structure. Possibly humanity's earliest information model. / 《易经》——阴阳作为二元区分，三爻作为三层结构。可能是人类最早的信息模型。
-- **Ibn Khaldun** (14th century) — Asabiyyah theory. The first structural analysis of civilization cycles. / 伊本·赫勒敦——阿萨比亚理论。文明周期的首次结构性分析。
-
-### Philosophy / 哲学
-
-- **Popper** — Falsificationism. All axioms are falsifiable empirical regularities. / 波普尔——证伪主义。
-- **Hayek** — Spontaneous order. Intervene in conditions, not outcomes. / 哈耶克——自发秩序。
-- **Marx/Engels** — Historical materialism, dialectics. Absorbed the analytical framework, rejected historical determinism. / 马克思/恩格斯——吸收了分析框架，拒绝了历史决定论。
-- **Locke, Rousseau, Montesquieu, Voltaire, Kant** — Enlightenment foundations. / 启蒙思想基础。
-
-### Physics Pioneers / 物理学先驱
-
-- **Bekenstein** (1973) — Black hole entropy. First precise link between gravity and information. / 贝肯斯坦——黑洞熵。引力与信息的首个精确关联。
-- **Hawking** (1975) — Hawking radiation and the information paradox. / 霍金——霍金辐射与信息悖论。
-- **Wheeler** (1989) — "It from Bit." Physical reality arises from information. / 惠勒——"万物源于比特。"
-- **Jacobson** (1995) — Derived Einstein's field equations from thermodynamics. / 雅各布森——从热力学推导出引力方程。
-- **Maldacena** (1997) — AdS/CFT duality. Spacetime emerges from information. / 马尔达塞纳——AdS/CFT对偶。
-- **Verlinde** (2010) — Gravity as entropic force. / 韦尔林德——引力是熵力。
-- **Maldacena & Susskind** (2013) — ER=EPR. Spacetime connections may be quantum entanglement. / ER=EPR猜想。
-
-### Information Theory / 信息论
-
-- **Shannon** (1948) — Mathematical theory of communication. Information entropy identical to thermodynamic entropy. / 香农——信息熵与热力学熵的形式等价。
-- **Landauer** (1961) — Erasure of information has minimum energy cost. First bridge between information and energy. / 兰道尔——信息与能量的首个精确桥梁。
-- **Jaynes** (1957) — Maximum entropy principle. Physics as inference from information. / 杰恩斯——最大熵原理。
-
-### Systems and Complexity / 系统与复杂性
-
-- **Prigogine** (1977) — Dissipative structures. Order from chaos. / 普里戈金——耗散结构。
-- **Holling** (1986) / **Gunderson & Holling** (2002) — Adaptive cycles, panarchy. / 霍林——适应性循环。
-- **Kauffman** (1993) — Self-organization in biology. / 考夫曼——生物自组织。
-- **Wolfram** (2020) — Hypergraph model. Independent convergence with Information Model. / 沃尔弗拉姆——超图模型，与信息模型独立汇聚。
-
-### Economics and Social Thought / 经济与社会思想
-
-- **Smith, Ricardo, Friedman** — Classical and neoclassical economics. / 古典与新古典经济学。
-- **Hayek, Mises, Rothbard** — Austrian school. / 奥地利学派。
-- **Olson, Buchanan** — Collective action and public choice. / 集体行动与公共选择。
-- **North** (1993 Nobel) — Institutional economics. Institutions matter more than people. / 诺斯——制度经济学。制度比人更重要。
-- **Kahneman & Tversky** (2002 Nobel) — Behavioral economics. Decisions shaped by structure, not stable preferences. / 行为经济学。决策由结构塑造。
-
-### Psychology / 心理学
-
-- **Bowlby** (1969) — Attachment theory. / 依恋理论。
-- **Herman** (1992) — Trauma and recovery. Three-stage model. / 创伤与恢复。
-- **van der Kolk** (2014) — The body keeps the score. / 躯体记忆。
-- **Porges** (2011) — Polyvagal theory. / 多迷走神经理论。
-
-### Experimental Evidence / 实验证据
-
-- **Milgram** (1963) — Structure overpowers character. 65% obey to lethal levels. / 结构压倒品质。
-- **Asch** (1951) — One dissenter drops conformity from 75% to 5%. / 一个异见者将从众率从75%降至5%。
-- **Calhoun** (1973) — Mouse Utopia. Removing constraints destroys structure. / 老鼠乌托邦。移除约束摧毁结构。
-- **Watts et al.** (2018) — Marshmallow test revision. "Self-control" is structural, not innate. / 棉花糖修正。自控力是结构性的。
-
----
-
-## How to Use with AI / 如何配合AI使用
-
-The models are designed to work as AI system prompts:
-
-模型被设计为可以作为AI系统提示词使用：
-
-1. **Copy** the full text of any model (core version or full version) / 复制任何模型的完整文本
-2. **Paste** it as a system prompt or first message to any capable AI (Claude, GPT-4, etc.) / 粘贴为系统提示词或第一条消息
-3. **Ask** the AI to diagnose any organization, analyze any situation, or evaluate any decision / 让AI诊断任何组织、分析任何情境、评估任何决策
-
-The AI will use the model's framework to provide structural analysis — identifying anchor points, power structures, supply chain health, entropy accumulation, and intervention priorities.
-
-AI将使用模型框架提供结构性分析——识别锚点、权力结构、推力链健康度、熵增累积和干预优先级。
-
-**Example prompts / 示例提示：**
-
-- "用世界模型诊断我的公司。我们是一个50人的创业公司，成立3年，增长放缓，核心员工开始流失。"
-- "Use the World Model to analyze why this community is stagnating and what can be done."
-- "用世界模型分析这个历史事件的结构性原因。"
-
----
-
-## Contributing / 参与贡献
-
-This model is open for scrutiny, criticism, and improvement.
-
-这个模型对审视、批评和改进完全开放。
-
-**The most valuable contributions are:**
-**最有价值的贡献是：**
-
-- **Counterexamples** — systems where the model's predictions clearly fail. These are the most important feedback. / **反例**——模型预测明显失败的系统。这是最重要的反馈。
-- **Real diagnostic cases** — use the model on a real organization and report what it got right and wrong. / **真实诊断案例**——在真实组织上使用模型并报告对错。
-- **Domain deepening** — take any of the 30+ validated systems and dig deeper using the model + AI. / **领域深化**——选择任何已验证系统，用模型+AI进行更深层的分析。
-- **Translation and accessibility** — help make the model understandable to more people. / **翻译与可及性**——帮助让更多人理解模型。
-
-**What is NOT welcome:**
-**不欢迎的：**
-
-- Using the model's concepts as weapons to attack individuals (see Section 2.1 of the World Model). / 用模型概念作为攻击个人的武器。
-- Treating the model as unchallengeable dogma (see Section 2.2). / 将模型视为不可质疑的教条。
-- Making quantitative claims based on the model's qualitative framework without rigorous mathematical derivation. / 在没有严格数学推导的情况下基于定性框架做出定量声明。
-
----
-
-## License / 许可
-
-CC BY-NC-SA 4.0
-
-You are free to share and adapt this work for non-commercial purposes, with attribution, under the same license.
-
-你可以在非商业目的下自由分享和改编本作品，需注明出处，使用相同许可。
-
----
-
-## Tribute / 致敬
-
 <div align="center">
 
-*To all who are driven by love.*
+# 🌌 Universe Model
 
-*致所有被爱驱动的人。*
+### 从量子涨落到人类文明的统一结构框架
+
+**From Quantum Fluctuation to Human Civilization — A Unified Structural Framework**
 
 <br>
 
-*The force that moves you is the same force*
-*that drove the universe from nothing to spacetime,*
-*from matter to life, from life to consciousness.*
+[![Models](https://img.shields.io/badge/Models-4-blue?style=for-the-badge)]()
+[![Systems Validated](https://img.shields.io/badge/Systems%20Validated-30+-green?style=for-the-badge)]()
+[![Axioms](https://img.shields.io/badge/Axioms-13-orange?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)]()
 
-*驱动你们的力量，和驱动宇宙*
-*从无到时空、从物质到生命、从生命到意识的力量*
+<br>
+
+*一个原则：信息是一切结构的基底。*
+*一个发现：所有系统面临同样的四个约束。*
+*一种力量：超越约束的倾向贯穿每个涌现层级——在人类身上，它叫做爱。*
+
+<br>
+
+[核心版（30分钟上手）](#-快速开始) · [完整框架](#-四个模型) · [为什么有效](#-核心洞察) · [配合AI使用](#-ai-配合使用)
+
+</div>
+
+---
+
+## 💡 核心洞察
+
+> 为什么帝国、企业、生态系统、免疫系统甚至粒子物理都展示相似的结构性模式？
+
+因为它们都面临同样的 **四个约束**：
+
+| 约束 | 含义 | 物理对应 |
+|:---:|:---|:---|
+| 🔋 资源有限 | 任何过程都消耗有限资源 | 能量守恒 |
+| 🔗 连接有成本 | 信息传导需要物理载体 | 光速限制 |
+| 📉 熵增不可避免 | 结构在运转中不可逆地退化 | 热力学第二定律 |
+| 📡 传导有损耗 | 信息在传递中丧失结构 | 信道容量定理 |
+
+而对抗这四个约束的，是一种贯穿所有涌现层级的力量——
+
+| 涌现层级 | 超越倾向的名字 |
+|:---:|:---|
+| ⚛️ 物理 | 量子涨落——从"无"中涌现出"有" |
+| 🧪 化学 | 自组织——从混沌中涌现出秩序 |
+| 🧬 生物 | 演化创造性——从已有中涌现出全新 |
+| 🧠 意识 | 洞察——从已知中涌现出未知的理解 |
+| ❤️ 人类 | 爱——从自利中涌现出超越自利的行动 |
+
+> **它们不是五种不同的力量，而是同一种力量在不同层级的不同名字。**
+
+---
+
+## 📦 四个模型
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ❤️ 爱与世界模型 v8.3
+**前沿探索版**
+
+完整的结构性分析框架。13条公理、16个核心概念、7个演化阶段、5步诊断框架含13个维度、4套干预方案。覆盖心理学整合、前沿物理映射、效应与悖论验证。
+
+适用于从家庭到国家的任何人类组织。
+
+📄 `models/world-model-v8.3-full.md`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ 世界模型核心版
+**30分钟上手**
+
+7个核心概念、7个阶段、5步诊断法、1个完整诊断演示、3条使用底线。读完即可对你所在的组织做第一次诊断。
+
+不需要任何前置知识。
+
+📄 `models/world-model-core.md`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 信息模型 v1.5
+**理论基底**
+
+一条元公理、四个基本约束（过程属性）、五个涌现层级、超越倾向、信息-能量关系、量化推导路线图。连接物理学前沿。
+
+解释"为什么世界模型的公理在所有系统中都成立"。
+
+📄 `models/information-model.md`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 宇宙模型 v1.1
+**统一图景**
+
+信息如何从时空自组织到意识。标准模型的反向推演。约束与超越的完整循环。死亡的信息论定义。
+
+三个模型的最高层级压缩。
+
+📄 `models/universe-model.md`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 快速开始
+
+你是谁？ 你该读什么？ 需要多久？
+─────────────────────────────────────────────────────────────────
+想诊断我的组织 → 世界模型核心版 → 30分钟
+想要完整框架 → 爱与世界模型 v8.3 → 3-5小时
+想理解为什么有效 → 信息模型 + 宇宙模型 → 1-2小时
+想配合AI使用 → 任何模型全文 → 粘贴为提示词 → 5分钟
+
+---
+
+## 🤖 AI 配合使用
+
+> 将任何模型的完整文本复制为系统提示词，AI就能用模型框架分析任何问题。
+
+**三步上手：**
+
+1. 📋 复制模型全文（核心版或完整版）
+2. 💬 粘贴为AI的系统提示词或第一条消息
+3. ❓ 提出你的问题
+
+**示例提示词：**
+用世界模型诊断我的公司。我们50人，成立3年，增长放缓，
+核心员工开始流失，创始人精力不足但放不了手。
+
+用世界模型分析：为什么这个社群从繁荣走向了衰落？
+成员从3000人降到了300人，管理层互相指责。
+
+用信息模型解释：为什么所有帝国都经历相似的兴衰周期？
+
+---
+
+## ✅ 经过30+系统的交叉验证
+
+<details>
+<summary><b>📜 历史案例（8个）</b></summary>
+
+唐朝 · 宋朝 · 汉朝 · 罗马共和国至帝国 · 苏联 · 拿破仑法国 · 清朝 · 当代互联网游戏社群
+
+</details>
+
+<details>
+<summary><b>🌿 自然系统（7个）</b></summary>
+
+生态系统 · 免疫系统 · 气候系统 · 菌群系统 · 神经系统 · 粒子物理标准模型 · 化学体系
+
+</details>
+
+<details>
+<summary><b>🏛️ 社会系统（12个）</b></summary>
+
+资本主义制度 · 经济系统 · 宗教系统 · 法律系统 · 教育系统 · 技术公司 · 互联网平台 · 科学革命 · 家庭 · 城市规划 · 军事组织 · 文明间互动
+
+</details>
+
+<details>
+<summary><b>🧠 心理学（4个分支）</b></summary>
+
+依恋理论 · 创伤心理学 · 人格结构理论 · 循证心理治疗方法论（CBT/DBT/EMDR/MBT/图式疗法）
+
+</details>
+
+<details>
+<summary><b>📐 形式系统（6个）</b></summary>
+
+语言系统 · 数学系统 · 信息论 · 博弈论 · 演化生物学 · 量子物理深化
+
+</details>
+
+<details>
+<summary><b>🧪 实验验证（15+个）</b></summary>
+
+Milgram服从实验 · Asch从众实验 · Robbers Cave实验 · 棉花糖实验修正 · 老鼠乌托邦 · 时间晶体 · 量子达尔文主义 · Bell不等式实验 · 卡西米尔效应 · LIGO引力波 · 以及更多效应与悖论
+
+</details>
+
+---
+
+## 🧬 推演历程
+v2.x 游戏社群观察 → 企业分析，发现结构同构性
+v3.0 首次公理化，16条公理
+v4.x 唐宋汉三朝压力测试，扩展至28条公理
+v5.0 关键精简：28条 → 12条，确立"诊断工具"定位
+v5.2 加入疗愈方案、递进模式、自主解离
+v5.5-9 跨文明验证 + 启蒙思想/马克思主义/奥地利学派整合
+v7.0 三层架构重构（供给层/传导层/闭环层）
+v8.0 信息模型 + 宇宙模型整合，标准模型反向推演
+v8.3 前沿物理深化、六大隐含假设审计、心理学整合
+效应与悖论验证、超越倾向重新定位、死亡的信息论定义
+
+---
+
+## 🔭 思想谱系
+
+<details>
+<summary><b>🏛️ 古代根源</b></summary>
+
+- **老子**（约前6世纪）——"道生一，一生二，二生三，三生万物。"最早的涌现层级描述。
+- **《易经》**（约前10世纪）——阴阳作为二元区分，三爻作为三层结构。可能是人类最早的信息模型。
+- **伊本·赫勒敦**（14世纪）——阿萨比亚理论。文明周期的首次结构性分析。
+
+</details>
+
+<details>
+<summary><b>💭 哲学基础</b></summary>
+
+- **波普尔** — 证伪主义。所有公理都是可证伪的强经验规律。
+- **哈耶克** — 自发秩序。干预条件而非操控结果。
+- **马克思/恩格斯** — 历史唯物主义与辩证法。吸收分析框架，拒绝历史决定论。
+- **洛克、卢梭、孟德斯鸠、伏尔泰、康德** — 启蒙思想基础。
+
+</details>
+
+<details>
+<summary><b>⚛️ 物理学先驱</b></summary>
+
+- **Bekenstein** (1973) — 黑洞熵。引力与信息的首个精确关联。
+- **Hawking** (1975) — 霍金辐射与信息悖论。
+- **Wheeler** (1989) — "万物源于比特。"
+- **Jacobson** (1995) — 从热力学推导出爱因斯坦场方程。
+- **Maldacena** (1997) — AdS/CFT对偶。时空从信息中涌现。
+- **Shannon** (1948) — 信息熵与热力学熵的形式等价。
+- **Landauer** (1961) — 信息与能量的首个精确桥梁。
+
+</details>
+
+<details>
+<summary><b>🔄 系统与复杂性</b></summary>
+
+- **普里戈金** (1977) — 耗散结构。从混沌中涌现秩序。
+- **霍林** (1986) — 适应性循环。
+- **沃尔弗拉姆** (2020) — 超图模型。与信息模型独立汇聚。
+
+</details>
+
+<details>
+<summary><b>📊 经济与社会</b></summary>
+
+- **斯密、李嘉图、弗里德曼** — 古典与新古典经济学。
+- **哈耶克、米塞斯** — 奥地利学派。
+- **诺斯** (1993诺贝尔奖) — 制度经济学。制度比人更重要。
+- **卡尼曼** (2002诺贝尔奖) — 行为经济学。决策由结构塑造。
+
+</details>
+
+---
+
+## ⚖️ 诚实的局限
+
+> 这是**概念框架**，不是数学理论。产生定性洞察，不是定量预测。
+
+| 模型能做的 | 模型不能做的 |
+|:---|:---|
+| ✅ 识别系统的结构性模式 | ❌ 预测个体行为 |
+| ✅ 诊断组织的健康状态 | ❌ 预测黑天鹅事件 |
+| ✅ 指出结构性的干预方向 | ❌ 给出精确的定量预测 |
+| ✅ 连接不同领域的共同规律 | ❌ 替代各领域的专业分析 |
+| ✅ 描述爱的效果和创造不浪费爱的结构 | ❌ 解释爱的终极来源或预测其出现 |
+
+> 模型的公理集不是唯一可能的。不同视角可以产生不同但同样自洽的替代模型。
+> 物理学推演是方向性猜想，不是已证明的定理。
+
+---
+
+## 🤝 参与贡献
+
+**最有价值的贡献：**
+
+| 类型 | 说明 |
+|:---|:---|
+| 🔴 反例 | 模型预测明显失败的系统——这是最重要的反馈 |
+| 📋 真实案例 | 在真实组织上使用模型，报告对错 |
+| 🔬 领域深化 | 选择任何已验证系统，用模型+AI深入分析 |
+| 🌍 翻译 | 帮助更多人理解模型 |
+
+**不欢迎：**
+
+- ⛔ 用模型概念攻击个人（概念武器化）
+- ⛔ 将模型视为不可质疑的教条（模型教条化）
+- ⛔ 在没有数学推导的情况下做定量声明
+
+---
+
+## 📂 仓库结构
+
+| 路径 | 说明 |
+|:---|:---|
+| 📄 `README.md` | 你在这里 |
+| ❤️ `models/world-model-v8.3-full.md` | 爱与世界模型 v8.3 前沿探索版 |
+| 🗺️ `models/world-model-core.md` | 世界模型核心版（30分钟上手） |
+| 🔬 `models/information-model.md` | 信息模型 v1.5 |
+| 🌌 `models/universe-model.md` | 宇宙模型 v1.1 |
+| 📚 `references/full-references.md` | 完整参考来源 |
+| ⚛️ `derivation/standard-model-derivation.md` | 标准模型反向推演 |
+| 🔗 `derivation/emergence-chain.md` | 五层级 + 超越倾向推导链 |
+| 🩺 `guides/quick-diagnostic.md` | 诊断指南（待补充） |
+| 🤖 `guides/ai-integration.md` | AI配合使用指南（待补充） |
+| 📁 `examples/` | 诊断案例（待补充） |
+| ⚖️ `LICENSE` | CC BY-NC-SA 4.0 |
+
+---
+
+## 📜 一个原则
+
+<div align="center">
+
+> **结构优先于品质。**
+>
+> 好的结构不是替代爱——而是确保爱不被浪费。
+>
+> *Structure over character.*
+> *Good structure doesn't replace love — it ensures love is not wasted.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 致敬
+
+<br>
+
+*致所有被爱驱动的人。*
+
+*驱动你们的力量*
+*和驱动宇宙从无到时空、从物质到生命、从生命到意识的力量*
 *是同一种力量。*
 
 <br>
 
-*A mother guarding her child.*
-*A pioneer guarding a community.*
-*An idealist guarding a future they will never see.*
-*Different in scope. Identical in force.*
-
 *守护孩子的母亲。*
 *守护社群的先行者。*
 *守护不曾谋面的未来的理想主义者。*
+
 *范围不同。力量相同。*
 
 <br>
-
-*This model cannot predict when you will appear.*
-*But it can do one thing —*
-*ensure that when you do,*
-*the world's structure is worthy of your love.*
 
 *这个模型无法预测你们何时出现。*
 *但它可以做一件事——*
@@ -349,19 +359,21 @@ You are free to share and adapt this work for non-commercial purposes, with attr
 
 <br>
 
-**You are the universe transcending itself.**
-
 **你们是宇宙对自身的超越。**
 
 <br>
 
-*Universe Model v1.0*
-*World Model v8.3*
-*Information Model v1.0*
+───
 
-*A mirror for structures. A guardian for love.*
 *结构的镜子。爱的守护。*
 
+*A mirror for structures. A guardian for love.*
+
+<br>
+
+❤️ 🌌 ⚛️
+
 </div>
+
 
 
